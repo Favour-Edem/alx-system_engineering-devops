@@ -1,0 +1,3 @@
+#!/bin/bash
+#My second script on system engineering devops
+echo "0-current_working_directory.sh 0-current_working_directory.sh~ 1-listit 1-listit~ 1-listit.sh README.md"
