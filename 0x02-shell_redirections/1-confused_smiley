@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'text "(Ôo)"'
+echo -e "\"(Ôo)'"
