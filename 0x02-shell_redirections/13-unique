@@ -1,0 +1,2 @@
+#!/bin/bash
+sort unique_list | uniq -u
